@@ -1,0 +1,27 @@
+@media print
+{
+div.parent
+{
+
+background:#00F;
+color:#fff;
+padding:10px;
+
+}
+
+div.parent p
+{
+background:#f00;
+color:#fff;
+padding:10px;
+margin:10px;
+}
+
+div.parent div
+{
+background:#080;
+color:#fff;
+padding:10px;
+margin:10px;
+}
+}
